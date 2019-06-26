@@ -1,0 +1,6 @@
+Reversing
+７、shellを使って指定されたとこへ飛びその中のプログラムを実行する
+８、dGg0dF93NHNfczFtcEwzが６４進数になっていてASCIIコード表を見ながら解く
+
+be-quick-or-be-dead-1
+アセンブラ言語が使えることが前提っぽい
